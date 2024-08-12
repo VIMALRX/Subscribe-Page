@@ -1,7 +1,11 @@
 body{
     /* height: fit-content; */ 
-    width:600px ;
-    height:400px ;
+    
+    height:500px ;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
     border: 2px solid ;
 
 }
@@ -45,4 +49,14 @@ h2{
 /* input:hover{
     background-color: blueviolet;
     color: blueviolet;
+} */
+/* .newsletter{
+    width: 60%;
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 10%;
+   background-color: black;
+   border: none;
+   color: white;
+   padding-bottom: 100px;
 } */
